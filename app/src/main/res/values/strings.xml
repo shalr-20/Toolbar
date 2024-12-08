@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <dimen name="top_margin">35dp</dimen>
+</resources>
